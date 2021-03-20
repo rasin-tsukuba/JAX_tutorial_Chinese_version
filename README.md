@@ -2,10 +2,12 @@
 
 原英文教程地址: [ReadTheDocs](https://jax.readthedocs.io/en/latest)
 
+施工中，暂未开放。
+
 ## 目录
 
 *  启蒙
-    * 快速开始JAX
+    * [快速开始JAX](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/01-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.ipynb)
     * 用JAX思考
     * JAX锋芒毕露
     * 教程：JAX 101
