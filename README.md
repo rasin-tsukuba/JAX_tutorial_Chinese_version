@@ -15,7 +15,7 @@
         * JAX的即时编译
         * JAX中的自动向量化
         * JAX中的高级自动微分
-        * JAX中的伪随机数
+        * [JAX中的伪随机数](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/1.4.5-JAX%E4%B8%AD%E7%9A%84%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0.ipynb)
         * JAX中的并行评估
         * 有状态的计算
 * 参考文档
