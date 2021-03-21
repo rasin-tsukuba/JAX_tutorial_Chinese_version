@@ -2,7 +2,8 @@
 
 原英文教程地址: [ReadTheDocs](https://jax.readthedocs.io/en/latest)
 
-施工中，暂未开放。
+施工中...
+Work in Progress...
 
 ## 目录
 
