@@ -9,7 +9,7 @@ Work in Progress...
 
 *  启蒙
     * [快速开始JAX](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/01-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.ipynb)
-    * 用JAX思考
+    * 以JAX的方式思考
     * JAX锋芒毕露
     * 教程：JAX 101
         * 加速版Numpy——JAX 
@@ -22,7 +22,7 @@ Work in Progress...
 * 参考文档
     * JAX常见问题 （FAQ）
     * 变换
-    * 异步调度
+    * [异步调度](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/2.3-%E5%BC%82%E6%AD%A5%E8%B0%83%E5%BA%A6.ipynb)
     * 理解Jaxprs
     * JAX中的卷积
     * Pytrees
