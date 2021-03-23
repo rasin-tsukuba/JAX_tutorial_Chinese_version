@@ -8,7 +8,7 @@ Work in Progress...
 ## 目录
 
 *  启蒙
-    * [快速开始JAX](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/01-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.ipynb)
+    * [快速开始JAX](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/1.1-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.ipynb)
     * [以JAX的方式思考](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/1.2-%E4%BB%A5JAX%E7%9A%84%E6%96%B9%E5%BC%8F%E6%80%9D%E8%80%83.ipynb)
     * [JAX锋芒毕露](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/code/1.3-JAX%E9%94%8B%E8%8A%92%E6%AF%95%E9%9C%B2.ipynb)
     * 教程：JAX 101
