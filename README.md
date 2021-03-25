@@ -12,7 +12,7 @@ Work in Progress...
     * [以JAX的方式思考](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/official-tutorials/GettingStarted/1.2-%E4%BB%A5JAX%E7%9A%84%E6%96%B9%E5%BC%8F%E6%80%9D%E8%80%83.ipynb)
     * [JAX锋芒毕露](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/official-tutorials/GettingStarted/1.3-JAX%E9%94%8B%E8%8A%92%E6%AF%95%E9%9C%B2.ipynb)
     * 教程：JAX 101
-        * 加速版Numpy——JAX 
+        * [加速版Numpy——JAX](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/official-tutorials/GettingStarted/Tutorial:Jax101/1.4.1-%E5%8A%A0%E9%80%9F%E7%89%88Numpy%E2%80%94%E2%80%94JAX%20.ipynb)
         * JAX的即时编译
         * JAX中的自动向量化
         * JAX中的高级自动微分
