@@ -13,9 +13,9 @@ Work in Progress...
     * [JAX锋芒毕露](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/official-tutorials/GettingStarted/1.3-JAX%E9%94%8B%E8%8A%92%E6%AF%95%E9%9C%B2.ipynb)
     * 教程：JAX 101
         * [加速版Numpy——JAX](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/official-tutorials/GettingStarted/Tutorial:Jax101/1.4.1-%E5%8A%A0%E9%80%9F%E7%89%88Numpy%E2%80%94%E2%80%94JAX%20.ipynb)
-        * JAX的即时编译
-        * JAX中的自动向量化
-        * JAX中的高级自动微分
+        * [JAX的即时编译](https://github.com/rasin-tsukuba/JAX_tutorial_Chinese_version/blob/main/official-tutorials/GettingStarted/Tutorial:Jax101/1.4.2-JAX%E7%9A%84%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91.ipynb)
+        * [JAX中的自动向量化](https://github.com/rasin-tsukuba/JAX_tutorial_Chinese_version/blob/main/official-tutorials/GettingStarted/Tutorial:Jax101/1.4.3-JAX%E7%9A%84%E8%87%AA%E5%8A%A8%E5%90%91%E9%87%8F%E5%8C%96.ipynb)
+        * [JAX中的高级自动微分]()
         * [JAX中的伪随机数](https://github.com/rasin-tsukuba/JAX_chinese_tutorial/blob/main/official-tutorials/GettingStarted/Tutorial:Jax101/1.4.5-JAX%E4%B8%AD%E7%9A%84%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0.ipynb)
         * 使用 pytrees
         * 样例：ML模型参数
